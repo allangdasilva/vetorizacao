@@ -3,14 +3,20 @@
   --font-jost: "Jost", sans-serif;
   --font-unna: "Unna", serif;
 
-  --color-p1: #5ba683;
-  --color-p2: #6fb997;
-  --color-p3: #d3ffea;
-  --color-p4: #d7f9e9;
-  --color-p5: #d93644;
-  --color-p6: #170603;
-  --color-p7: #f2f2f2;
-  --color-t1: #0d0d0d;
+  --color-pink1: #ffb3b5;
+  --color-pink2: #ffc3c5;
+
+  --color-green1: #b5ffee;
+  --color-green2: #c2fff1;
+  --color-green3: #0dcf84;
+
+  --color-blue1: #b2c1ff;
+  --color-blue2: #c2ceff;
+
+  --color-b1: #1f1f1f;
+  --color-w1: #f2f2f2;
+
+  --color-t1: #141414;
   --color-t2: #3a3a3a;
 }
 @utility container {

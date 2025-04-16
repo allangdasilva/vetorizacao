@@ -1,3 +1,4 @@
+import FirstSection from "./FirstSection";
 import Header from "./Header";
 import Main from "./Main";
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header />
       <Main />
+      <FirstSection />
     </>
   );
 }
