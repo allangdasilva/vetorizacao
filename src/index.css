@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme {
+  --font-jost: "Jost", sans-serif;
+  --font-unna: "Unna", serif;
+
+  --color-p1: #5ba683;
+  --color-p2: #6fb997;
+  --color-p3: #d3ffea;
+  --color-p4: #d7f9e9;
+  --color-p5: #d93644;
+  --color-p6: #170603;
+  --color-t1: #0d0d0d;
+  --color-t2: #262626;
+}
