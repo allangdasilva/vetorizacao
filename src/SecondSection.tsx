@@ -8,7 +8,7 @@ const SecondSection = () => {
       <section className="bg-gradient-to-b py-8 from-blue1 via-blue2 to-blue1 md:py-15">
         <div className="container relative grid gap-6 items-start md:grid-cols-2">
           <div className="grid relative row-start-2 justify-center items-start md:row-start-1">
-            <span className="absolute inset-0 bg-[rgba(255,255,255,0.1)] shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-[5px] border-[1px_solid_rgba(255,255,255,0.3)] rounded-2xl"></span>
+            <span className="absolute inset-0 bg-[rgba(255,255,255,0.1)] shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-[5px] border-[1px_solid_rgba(255,255,255,0.3)]"></span>
             <EchosLogo className="row-start-1 col-start-1 max-w-full h-80 p-10 md:h-90 lg:h-100 z-10" />
           </div>
           <div className="grid gap-2 md:gap-3 lg:gap-5">

@@ -1,5 +1,6 @@
 import FifthSection from "./FifthSection";
 import FirstSection from "./FirstSection";
+import Footer from "./Footer";
 import FourthSection from "./FourthSection";
 import Header from "./Header";
 import Main from "./Main";
@@ -16,6 +17,7 @@ function App() {
       <ThirdSection />
       <FourthSection />
       <FifthSection />
+      <Footer />
     </>
   );
 }

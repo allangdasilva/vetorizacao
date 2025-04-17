@@ -20,14 +20,14 @@ const FifthSection = () => {
             </p>
             <a
               href="./"
-              className="flex gap-2 items-center w-fit mb-2 font-unna text-xl leading-[1.3] text-t2 lg:text-2xl hover:text-green5"
+              className="flex gap-2 items-center w-fit mb-2 font-unna text-xl leading-[1.3] text-t2 lg:text-2xl hover:text-green5 transition-all"
             >
               <WhatsAppLogo className="max-w-8 h-auto" />
               WhatsApp
             </a>
             <a
               href="./"
-              className="flex gap-2 items-center w-fit font-unna text-xl leading-[1.3] text-t2 lg:text-2xl hover:text-blue5"
+              className="flex gap-2 items-center w-fit font-unna text-xl leading-[1.3] text-t2 lg:text-2xl hover:text-blue5 transition-all"
             >
               <OutlookLogo className="max-w-8 h-auto" />
               E-mail

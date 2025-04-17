@@ -16,7 +16,7 @@ const ThirdSection = () => {
             </p>
           </div>
           <div className="relative grid justify-center items-start">
-            <span className="absolute inset-0 bg-[rgba(255,255,255,0.1)] shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-[5px] border-[1px_solid_rgba(255,255,255,0.3)] rounded-2xl"></span>
+            <span className="absolute inset-0 bg-[rgba(255,255,255,0.1)] shadow-[0_4px_30px_rgba(0,0,0,0.1)] backdrop-blur-[5px] border-[1px_solid_rgba(255,255,255,0.3)]"></span>
             <EscudoLogo className="row-start-1 col-start-1 max-w-full h-auto max-h-120 p-10 z-10" />
           </div>
           <span className="hidden md:block absolute right-[calc(50%+10px)] bottom-0">
