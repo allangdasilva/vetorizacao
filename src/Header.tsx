@@ -1,9 +1,9 @@
 const Header = () => {
   return (
     <>
-      <header className="bg-b1">
+      <header className="bg-w1">
         <nav className="container py-5">
-          <ul className="flex items-center justify-between flex-wrap gap-5 *:*:font-jost *:*:font-semibold *:*:block *:*:text-w1">
+          <ul className="flex items-center justify-between flex-wrap gap-5 *:*:font-jost *:*:font-semibold *:*:block *:*:text-t1">
             <li>
               <a href="./" className="text-5xl leading-[1.12] ">
                 Allan Silva

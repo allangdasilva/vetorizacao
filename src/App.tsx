@@ -1,6 +1,7 @@
 import FirstSection from "./FirstSection";
 import Header from "./Header";
 import Main from "./Main";
+import SecondSection from "./SecondSection";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Main />
       <FirstSection />
+      <SecondSection />
     </>
   );
 }
