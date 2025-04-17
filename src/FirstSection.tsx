@@ -17,7 +17,7 @@ const FirstSection = () => {
             </p>
           </div>
           <div className="grid justify-center items-start">
-            <SweetLogo className="row-start-1 col-start-1 max-w-full h-auto p-10" />
+            <SweetLogo className="row-start-1 col-start-1 max-w-full h-auto max-h-120 p-10" />
           </div>
           <span className="hidden md:block absolute right-[calc(50%+10px)] bottom-0">
             <DecoLeft />
