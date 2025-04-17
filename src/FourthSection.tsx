@@ -7,11 +7,11 @@ const FourthSection = () => {
             <h2 className="mb-10 text-5xl leading-[1.1] font-jost font-semibold text-t1 z-10 sm:text-[3.25rem] md:text-6xl lg:mb-10 lg:text-7xl">
               O que eu ofereço?
             </h2>
-            <span className="block -translate-x-2 -translate-y-2 w-8 h-8 -left-4 -top-4 rounded-t-full bg-green5 md:-translate-y-0"></span>
+            <span className="block -translate-x-2 -translate-y-2 w-8 h-8 -left-4 -top-4 rounded-t-full bg-purple1 md:-translate-y-0"></span>
           </div>
           <div className="grid sm:grid-cols-2 sm:gap-8 xl:grid-cols-4">
             <div className="mb-6">
-              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
+              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] text-t1 sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
                 Logo em Alta Resolução
               </h3>
               <p className="font-unna text-xl leading-[1.3] text-t2 lg:text-2xl">
@@ -20,7 +20,7 @@ const FourthSection = () => {
               </p>
             </div>
             <div className="mb-6">
-              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
+              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] text-t1 sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
                 Versões para Diferentes Fundos
               </h3>
               <p className="font-unna text-xl leading-[1.3] text-t2 lg:text-2xl">
@@ -29,7 +29,7 @@ const FourthSection = () => {
               </p>
             </div>
             <div className="mb-6">
-              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
+              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] text-t1 sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
                 Pacote de Arquivos Profissionais
               </h3>
               <p className="font-unna text-xl leading-[1.3] text-t2 lg:text-2xl">
@@ -38,7 +38,7 @@ const FourthSection = () => {
               </p>
             </div>
             <div className="mb-6">
-              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
+              <h3 className="mb-1 text-[2rem] font-jost font-semibold leading-[1.2] text-t1 sm:text-4xl md:text-[2.5rem] lg:text-[2.75rem]">
                 Entrega Rápida e Organização
               </h3>
               <p className="font-unna text-xl leading-[1.3] text-t2 lg:text-2xl">
